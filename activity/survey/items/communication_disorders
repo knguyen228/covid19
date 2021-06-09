@@ -1,13 +1,13 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc2/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "covid19_symptoms",
-    "prefLabel": "Covid19 Risk Factors",
-    "description": "Covid19 Risk Factors",
+    "@id": "communication_disorders",
+    "prefLabel": "List of Common Communication Disorders",
+    "description": "List of Common Communication Disorders",
     "schemaVersion": "1.0.0-rc2",
     "version": "0.0.1",
     "question": {
-        "en": "Do you have any of the following conditions?",
+        "en": "Do you have any of the following conditions currently?",
         "es": "¿Tiene alguna de estas condiciones?"
     },
     "responseOptions": {
@@ -17,14 +17,14 @@
             {
                 "value": 1,
                 "name": {
-                    "en": "Diabetes",
+                    "en": "Acute laryngitis",
                     "es": "Diabetes"
                 }
             },
             {
                 "value": 2,
                 "name": {
-                    "en": "Hypertension",
+                    "en": "Cancer of the glottis",
                     "es": "Hipertension"
 
                 }
@@ -32,7 +32,7 @@
             {
                 "value": 3,
                 "name": {
-                    "en": "Heart conditions",
+                    "en": "Dysarthria",
                     "es": "Problemas cardíacos"
 
                 }
@@ -40,7 +40,7 @@
             {
                 "value": 4,
                 "name": {
-                    "en": "Asthma",
+                    "en": "Dysphonia",
                     "es": "Asma"
 
                 }
@@ -48,7 +48,7 @@
             {
                 "value": 5,
                 "name": {
-                    "en": "Allergies",
+                    "en": "Globus pharyngeus",
                     "es": "Alergias"
 
                 }
@@ -56,7 +56,7 @@
             {
                 "value": 6,
                 "name": {
-                    "en": "Chronic lung disease",
+                    "en": "Hearing implant",
                     "es": "Enfermedad pulmonar crónica"
 
                 }
@@ -64,7 +64,7 @@
             {
                 "value": 7,
                 "name": {
-                    "en": "Chronic kidney disease",
+                    "en": "Laryngeal spasm",
                     "es": "Enfermedad renal crónica"
 
                 }
@@ -72,7 +72,7 @@
             {
                 "value": 8,
                 "name": {
-                    "en": "Obesity (BMI > 30kg/m2)",
+                    "en": "Laryngopharyngeal reflux",
                     "es": "Obesidad (IMC > 30 kg/m2)"
 
                 }
@@ -80,7 +80,7 @@
             {
                 "value": 9,
                 "name": {
-                    "en": "Pregnancy",
+                    "en": "Leukoplakia",
                     "es": "Embarazo"
 
                 }
@@ -88,7 +88,7 @@
             {
                 "value": 10,
                 "name": {
-                    "en": "Sickle cell anemia",
+                    "en": "Parkinson's disease",
                     "es": "Anemia falciforme o depranocítica"
 
                 }
@@ -96,58 +96,31 @@
             {
                 "value": 11,
                 "name": {
-                    "en": "Neurological condition",
+                    "en": "Spasmodic dysphonia",
                     "es": "Trastorno neurológico"
 
                 }},
              {
                 "value": 12,
                 "name": {
-                    "en": "Immunocompromised",
+                    "en": "Vocal fold nodules",
                     "es": "Inmunodeprimido"
 
                 }},
                 {
                 "value": 13,
                 "name": {
-                    "en": "Cancer",
+                    "en": "Vocal fold polyps",
                     "es": "Cáncer"
 
                 }},
                 {
                 "value": 14,
                 "name": {
-                    "en": "Down syndrome",
+                    "en": "Vocal fold paralysis",
                     "es": "Síndrome de Down"
 
-                }},
-                {
-                "value": 15,
-                "name": {
-                    "en": "Voice disorder",
-                    "es": "Trastorno de la voz"
-
-                }},
-                {
-                "value": 16,
-                "name": {
-                    "en": "Hearing disorder",
-                    "es": "Trastorno de la audición"
-
-                }},
-                {
-                "value": 17,
-                "name": {
-                    "en": "Ear, nose or throat surgery in the past",
-                    "es": "Cirugías del oído, la nariz o el cuello en el pasado"
-
-                }},
-                {
-                "value": 18,
-                "name": {
-                    "en": "No, none of these",
-                    "es": "No, ninguna de estas"
-
+              
                 }}
         ]
     },
