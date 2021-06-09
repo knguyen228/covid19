@@ -17,8 +17,6 @@
             "nda:yearOfBirth",
             "demo:gender_identity",
             "items/gender_identity_other",
-            "demo:dialect",
-            "demo:fluentLanguages",
             "items/covid19_clinical_history",
             "items/smoking_history",
             "items/covid19_status",
