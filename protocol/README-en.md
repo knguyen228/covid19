@@ -1,6 +1,6 @@
 # A Voice Protocol for Vocallect
 
-You are invited to participate in a voice collection research study. Our aim is to understand and classify
+You are invited to participate in Vocallect: a voice collection research study. Our aim is to understand and classify
 the impacts that communication disorders may have on speech production. 
 
 In this protocol, you will: 
