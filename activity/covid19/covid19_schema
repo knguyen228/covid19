@@ -7,9 +7,9 @@
         }
     ],
     "@type": "reproschema:Activity",
-    "@id": "covid19_schema",
-    "prefLabel": "Covid19 survey questions",
-    "description": "Covid19 survey questions",
+    "@id": "survey_schema",
+    "prefLabel": "Basic survey questions",
+    "description": "Basic survey questions",
     "schemaVersion": "1.0.0-rc2",
     "version": "0.0.1",
     "ui": {
