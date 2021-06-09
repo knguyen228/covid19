@@ -25,14 +25,14 @@
     ],
     "ui": {
         "order": [
-            "../activity/covid19/covid19_schema",
+            "../activity/survey/survey_schema",
             "../activity/voice/voice_schema",
             "activity_path:ThankYou/ThankYou_schema"
         ],
         "shuffle": false,
         "addProperties": [
             {
-                "isAbout": "../activity/covid19/covid19_schema",
+                "isAbout": "../activity/survey/survey_schema",
                 "variableName": "covid19_schema",
                 "prefLabel": {
                     "en": "Brief Survey",
