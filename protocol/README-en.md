@@ -1,4 +1,4 @@
-# A Voice Protocol for Covid19
+# A Voice Protocol for Vocallect
 
 The aim of this research study is to better understand the effect and impact of
 SARS-COV-2 on speech production. In this protocol, you will:
