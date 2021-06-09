@@ -8,7 +8,7 @@
     "@type": "reproschema:Protocol",
     "@id": "Covid19_schema",
     "prefLabel": {
-        "en": "Vocallect (Voice Collection) Protocol",
+        "en": "Vocallect Protocol",
         "es": "Protocolo de voz para Covid19"
     },
     "description": "Voice Protocol for evaluating impact of Covid19 on speech",
