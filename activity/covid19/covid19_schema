@@ -17,7 +17,7 @@
             "nda:yearOfBirth",
             "demo:gender_identity",
             "items/gender_identity_other",
-            "items/covid19_clinical_history",
+            "items/communication_disorders",
             "items/smoking_history",
             "items/covid19_status",
             "items/covid19_status_tested",
@@ -49,18 +49,8 @@
                 "isVis": "gender_identity.includes(99)"
             },
             {
-                "isAbout": "demo:dialect",
-                "variableName": "dialect",
-                "isVis": true
-            },
-            {
-                "isAbout": "demo:fluentLanguages",
-                "variableName": "demo:fluentLanguages",
-                "isVis": true
-            },
-            {
-                "isAbout": "items/covid19_clinical_history",
-                "variableName": "covid19_clinical_history",
+                "isAbout": "items/communication_disorders",
+                "variableName": "communication_disorders",
                 "isVis": true
             },
             {
