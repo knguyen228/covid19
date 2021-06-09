@@ -5,4 +5,4 @@ the impacts that communication disorders may have on speech production.
 
 In this protocol, you will: 
 - Answer a series of short questions about your current communication disorder(s).
-- Perform a set of voice tasks.
+- Perform a set of voice tasks
