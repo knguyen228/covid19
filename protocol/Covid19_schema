@@ -27,7 +27,6 @@
         "order": [
             "../activity/covid19/covid19_schema",
             "../activity/voice/voice_schema",
-            "../activity/MentalHealth/MentalHealth_schema",
             "activity_path:ThankYou/ThankYou_schema"
         ],
         "shuffle": false,
