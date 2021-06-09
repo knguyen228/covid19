@@ -36,7 +36,7 @@
                 "isAbout": "../activity/covid19/covid19_schema",
                 "variableName": "covid19_schema",
                 "prefLabel": {
-                    "en": "COVID19 survey",
+                    "en": "Brief Survey",
                     "es": "Encuesta sobre COVID19"
                 }
             },
@@ -46,14 +46,6 @@
                 "prefLabel": {
                     "en": "Voice Tasks",
                     "es": "Tareas de voz"
-                }
-            },
-            {
-                "isAbout": "../activity/MentalHealth/MentalHealth_schema",
-                "variableName": "MentalHealth_schema",
-                "prefLabel": {
-                    "en": "Mental Health Survey",
-                    "es": "Encuesta de Salud Mental"
                 }
             },
             {
