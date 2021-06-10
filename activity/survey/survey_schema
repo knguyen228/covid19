@@ -18,6 +18,7 @@
             "demo:gender_identity",
             "items/gender_identity_other",
             "items/communication_disorders",
+            "items/hearing_disorders_other",
             "items/communication_disorders_other",
             "items/smoking_history",
             "items/covid19_status",
@@ -53,6 +54,11 @@
                 "isAbout": "items/communication_disorders",
                 "variableName": "communication_disorders",
                 "isVis": true
+            },
+            {
+                "isAbout": "items/hearing_disorders_other",
+                "variableName": "hearing_disorders_other",
+                "isVis": "communication_disorders.includes(15)"            
             },
             {
                 "isAbout": "items/communication_disorders_other",
