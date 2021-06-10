@@ -20,7 +20,6 @@
             "items/communication_disorders",
             "items/hearing_disorders_other",
             "items/communication_disorders_other",
-
         ],
         "shuffle": false,
         "addProperties": [
