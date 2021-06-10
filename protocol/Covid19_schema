@@ -33,7 +33,7 @@
         "addProperties": [
             {
                 "isAbout": "../activity/survey/survey_schema",
-                "variableName": "covid19_schema",
+                "variableName": "survey_schema",
                 "prefLabel": {
                     "en": "Brief Survey",
                     "es": "Encuesta sobre COVID19"
