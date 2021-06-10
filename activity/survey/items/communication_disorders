@@ -99,49 +99,42 @@
                     "en": "Spasmodic dysphonia",
                     "es": "Trastorno neurológico"
 
-                }},
-             {
+                }
+            },
+            {
                 "value": 12,
                 "name": {
                     "en": "Vocal fold nodules",
                     "es": "Inmunodeprimido"
 
-                }},
-                {
+                }
+            },
+            {
                 "value": 13,
                 "name": {
                     "en": "Vocal fold polyps",
                     "es": "Cáncer"
 
-                }},
-                {
+                }
+            },
+            {
                 "value": 14,
                 "name": {
                     "en": "Vocal fold paralysis",
                     "es": "Síndrome de Down"
-                    
-                }},
-                {
+
+                }
+            },
+            {
                 "value": 15,
                 "name": {
                     "en": "Other",
                     "es": "Síndrome de Down"
-
-              
-                }}
+                }
+            }
         ]
     },
     "ui": {
         "inputType": "radio"
     }
 }
-
-
-
-
-
-
-
-
-
-
