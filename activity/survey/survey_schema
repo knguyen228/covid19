@@ -54,8 +54,5 @@
                 "isVis": "communication_disorders.includes(15)"
             }
         ]
-    },
-    "ui": {
-        "inputType": "radio"
     }
 }
