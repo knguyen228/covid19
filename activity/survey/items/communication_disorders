@@ -119,6 +119,13 @@
                 "name": {
                     "en": "Vocal fold paralysis",
                     "es": "Síndrome de Down"
+                    
+                }},
+                {
+                "value": 15,
+                "name": {
+                    "en": "Other",
+                    "es": "Síndrome de Down"
 
               
                 }}
