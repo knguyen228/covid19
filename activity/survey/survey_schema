@@ -20,18 +20,7 @@
             "items/communication_disorders",
             "items/hearing_disorders_other",
             "items/communication_disorders_other",
-            "items/smoking_history",
-            "items/covid19_status",
-            "items/covid19_status_tested",
-            "items/covid19_status_symptoms_positive",
-            "items/covid19_days",
-            "items/fever_positive",
-            "items/covid19_status_notTested",
-            "items/covid19_date_test",
-            "items/covid19_status_symptoms_negative",
-            "items/fever_negative",
-            "items/covid19_vaccine",
-            "items/covid19_vaccine_yes"
+
         ],
         "shuffle": false,
         "addProperties": [
@@ -64,72 +53,6 @@
                 "isAbout": "items/communication_disorders_other",
                 "variableName": "communication_disorders_other",
                 "isVis": "communication_disorders.includes(15)"
-            },
-            {
-                "isAbout": "items/smoking_history",
-                "variableName": "smoking_history",
-                "isVis": true
-            },
-            {
-                "isAbout": "items/covid19_status",
-                "variableName": "covid19_status",
-                "isVis": true
-            },
-            {
-                "isAbout": "items/covid19_status_tested",
-                "variableName": "covid19_status_tested",
-                "isVis": "covid19_status === 2"
-            },
-            {
-                "isAbout": "items/covid19_status_symptoms_positive",
-                "variableName": "covid19_status_symptoms_positive",
-                "isVis": "covid19_status_tested === 1"
-            },
-            {
-                "isAbout": "items/covid19_days",
-                "variableName": "covid19_days",
-                "isVis": "covid19_status_tested === 1"
-            },
-            {
-                "isAbout": "items/fever_positive",
-                "variableName": "fever_positive",
-                "isVis": "covid19_status_tested === 1",
-                "allow": [
-                    "reproschema:Skipped"
-                ]
-            },
-            {
-                "isAbout": "items/covid19_status_notTested",
-                "variableName": "covid19_status_notTested",
-                "isVis": "covid19_status === 1"
-            },
-            {
-                "isAbout": "items/covid19_date_test",
-                "variableName": "covid19_date_test",
-                "isVis": "covid19_status_tested === 3"
-            },
-            {
-                "isAbout": "items/covid19_status_symptoms_negative",
-                "variableName": "covid19_status_symptoms_negative",
-                "isVis": true
-            },
-            {
-                "isAbout": "items/fever_negative",
-                "variableName": "fever_negative",
-                "isVis": true,
-                "allow": [
-                    "reproschema:Skipped"
-                ]
-            },
-            {
-                "isAbout": "items/covid19_vaccine",
-                "variableName": "covid19_vaccine",
-                "isVis": true
-            },
-            {
-                "isAbout": "items/covid19_vaccine_yes",
-                "variableName": "covid19_vaccine_yes",
-                "isVis": "covid19_vaccine === 1"
             }
         ]
     }
