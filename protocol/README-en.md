@@ -1,4 +1,4 @@
-# A Voice Protocol for the Vocallect Project
+# The Vocallect Project
 
 You are invited to participate in Vocallect: a voice collection research study. Our aim is to understand and classify the impacts that communication disorders may have on speech production. 
 
