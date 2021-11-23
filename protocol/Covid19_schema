@@ -11,7 +11,7 @@
         "en": "Vocallect Protocol",
         "es": "Protocolo de voz para Covid19"
     },
-    "description": "Voice Protocol for evaluating impact of Covid19 on speech",
+    "description": "Voice Protocol for evaluating impacts of communication disorders on speech",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "landingPage": [{
