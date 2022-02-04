@@ -17,14 +17,14 @@
             {
                 "value": 1,
                 "name": {
-                    "en": "Acute laryngitis",
+                    "en": "Laryngitis",
                     "es": "Diabetes"
                 }
             },
             {
                 "value": 2,
                 "name": {
-                    "en": "Cancer of the glottis",
+                    "en": "Throat cancer",
                     "es": "Hipertension"
 
                 }
@@ -32,7 +32,7 @@
             {
                 "value": 3,
                 "name": {
-                    "en": "Dysarthria",
+                    "en": "Dysphagia (difficulty swallowing)",
                     "es": "Problemas cardíacos"
 
                 }
@@ -40,7 +40,7 @@
             {
                 "value": 4,
                 "name": {
-                    "en": "Dysphonia",
+                    "en": "Reinke's edema, polypoid corditis, or smoker's larynx",
                     "es": "Asma"
 
                 }
@@ -48,7 +48,7 @@
             {
                 "value": 5,
                 "name": {
-                    "en": "Globus pharyngeus",
+                    "en": "Radiation to the throat",
                     "es": "Alergias"
 
                 }
@@ -56,7 +56,7 @@
             {
                 "value": 6,
                 "name": {
-                    "en": "Hearing impairment",
+                    "en": "Vocal strain",
                     "es": "Enfermedad pulmonar crónica"
 
                 }
@@ -64,7 +64,7 @@
             {
                 "value": 7,
                 "name": {
-                    "en": "Laryngeal spasm",
+                    "en": "Neurological disease (e.g., stroke, Parkinsonism, Alzheimer's)",
                     "es": "Enfermedad renal crónica"
 
                 }
@@ -72,7 +72,7 @@
             {
                 "value": 8,
                 "name": {
-                    "en": "Laryngopharyngeal reflux",
+                    "en": "Depression",
                     "es": "Obesidad (IMC > 30 kg/m2)"
 
                 }
@@ -80,7 +80,7 @@
             {
                 "value": 9,
                 "name": {
-                    "en": "Leukoplakia",
+                    "en": "Vocal fold paralysis (weak vocal fold)",
                     "es": "Embarazo"
 
                 }
@@ -88,7 +88,7 @@
             {
                 "value": 10,
                 "name": {
-                    "en": "Parkinson's disease",
+                    "en": "Pre-cancerous lesion (e.g., laryngeal leukoplakia or keratosis)",
                     "es": "Anemia falciforme o depranocítica"
 
                 }
@@ -96,7 +96,7 @@
             {
                 "value": 11,
                 "name": {
-                    "en": "Spasmodic dysphonia",
+                    "en": "Laryngopharyngeal reflux or acid reflux",
                     "es": "Trastorno neurológico"
 
                 }
@@ -104,7 +104,7 @@
             {
                 "value": 12,
                 "name": {
-                    "en": "Vocal fold nodules",
+                    "en": "Spasmodic dysphonia",
                     "es": "Inmunodeprimido"
 
                 }
@@ -112,7 +112,7 @@
             {
                 "value": 13,
                 "name": {
-                    "en": "Vocal fold polyps",
+                    "en": "Vocal tremor",
                     "es": "Cáncer"
 
                 }
@@ -120,16 +120,33 @@
             {
                 "value": 14,
                 "name": {
-                    "en": "Vocal fold paralysis",
+                    "en": "Vocal fold polyp, nodule, or cyst",
                     "es": "Síndrome de Down"
-
+                    
                 }
             },
             {
                 "value": 15,
                 "name": {
+                    "en": "Vocal hemorrhage or bleed",
+                    "es": "Síndrome de Down"
+
+                }
+            },
+            {
+                "value": 16,
+                "name": {
                     "en": "Other",
                     "es": "Síndrome de Down"
+                    
+                }
+            },
+            {
+                "value": 17,
+                "name": {
+                    "en": "None",
+                    "es": "Síndrome de Down"
+                    
                 }
             }
         ]
