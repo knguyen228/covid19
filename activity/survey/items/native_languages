@@ -6,7 +6,7 @@
     "description": "schema for native language of participant",
     "schemaVersion": "1.0.0-rc1",
     "version": "0.0.1",
-    "question": "In what language(s) can you converse with another person, similar to a native speaker?",
+    "question": "In what language(s) can you converse with another person, similar to a native speaker? For example, "English, Korean"",
     "ui": {
         "inputType": "text"
     },
