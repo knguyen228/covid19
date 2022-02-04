@@ -37,7 +37,7 @@
             {
                 "isAbout": "items/gender_identity_other",
                 "variableName": "gender_identity_other",
-                "isVis": "gender_identity.includes(0)"
+                "isVis": "gender_identity.includes(-1)"
             },
             {
                 "isAbout": "items/race_ethnicity_global",
