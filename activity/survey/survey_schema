@@ -51,7 +51,7 @@
             {
                 "isAbout": "items/communication_disorders_other",
                 "variableName": "communication_disorders_other",
-                "isVis": "communication_disorders.includes(15)"
+                "isVis": "communication_disorders.includes(16)"
             }
         ]
     }
