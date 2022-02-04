@@ -19,6 +19,7 @@
             "items/gender_identity_other",
             "items/race_ethnicity_global",
             "items/race_ethnicity_global_other",
+            "items/native_languages",
             "items/communication_disorders",
             "items/communication_disorders_other"
         ],
@@ -48,6 +49,11 @@
                 "isAbout": "items/race_ethnicity_global_other",
                 "variableName": "race_ethnicity_global_other",
                 "isVis": "race_ethnicity_global.includes(-1)"
+            },
+            {
+                "isAbout": "items/native_languages",
+                "variableName": "native_languages",
+                "isVis": true
             },
             {
                 "isAbout": "items/communication_disorders",
