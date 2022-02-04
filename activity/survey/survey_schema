@@ -41,12 +41,7 @@
             {
                 "isAbout": "items/communication_disorders",
                 "variableName": "communication_disorders",
-                "isVis": true
-            },
-            {
-                "isAbout": "items/hearing_disorders_other",
-                "variableName": "hearing_disorders_other",
-                "isVis": "communication_disorders.includes(6)"            
+                "isVis": true     
             },
             {
                 "isAbout": "items/communication_disorders_other",
