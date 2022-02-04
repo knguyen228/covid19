@@ -15,7 +15,7 @@
     "ui": {
         "order": [
             "nda:yearOfBirth",
-            "demo:gender_identity",
+            "items/gender_identity",
             "items/gender_identity_other",
             "items/communication_disorders",
             "items/communication_disorders_other"
@@ -28,7 +28,7 @@
                 "isVis": true
             },
             {
-                "isAbout": "demo:gender_identity",
+                "isAbout": "items/gender_identity",
                 "variableName": "gender_identity",
                 "isVis": true
             },
