@@ -18,7 +18,7 @@
             "items/gender_identity",
             "items/gender_identity_other",
             "items/race_ethnicity_global",
-            "items/race_ethnicity_global_other"
+            "items/race_ethnicity_global_other",
             "items/communication_disorders",
             "items/communication_disorders_other"
         ],
