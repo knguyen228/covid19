@@ -17,6 +17,7 @@
             "nda:yearOfBirth",
             "items/gender_identity",
             "items/gender_identity_other",
+            "items/race_ethnicity_global",
             "items/communication_disorders",
             "items/communication_disorders_other"
         ],
@@ -36,6 +37,11 @@
                 "isAbout": "items/gender_identity_other",
                 "variableName": "gender_identity_other",
                 "isVis": "gender_identity.includes(99)"
+            },
+            {
+                "isAbout": "items/race_ethnicity_global",
+                "variableName": "race_ethnicity_global",
+                "isVis": true
             },
             {
                 "isAbout": "items/communication_disorders",
