@@ -4,7 +4,6 @@
         {
             "nda": "https://raw.githubusercontent.com/ReproNim/reproschema-library/000ea1725a67b35944f67450057f8041cef090a7/activities/NDA/items/",
             "demo": "https://raw.githubusercontent.com/ReproNim/reproschema-library/000ea1725a67b35944f67450057f8041cef090a7/activities/demographics_and_background_information_v1/items/"
-            "demo2": "https://raw.githubusercontent.com/danielmlow/reproschema-library/tree/master/activities/demographics_and_background_information_v1/items/"
         }
     ],
     "@type": "reproschema:Activity",
@@ -16,7 +15,7 @@
     "ui": {
         "order": [
             "nda:yearOfBirth",
-            "demo2:gender_identity",
+            "demo:gender_identity",
             "items/gender_identity_other",
             "items/communication_disorders",
             "items/communication_disorders_other"
@@ -29,7 +28,7 @@
                 "isVis": true
             },
             {
-                "isAbout": "demo2:gender_identity",
+                "isAbout": "demo:gender_identity",
                 "variableName": "gender_identity",
                 "isVis": true
             },
