@@ -1,0 +1,48 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "@id": "smoking_history_other2",
+    "prefLabel": "smoking_history_other2",
+    "responseOptions": {
+        "valueType": "xsd:anyURI",
+        "multipleChoice": true,
+        "choices": [
+            {
+                "value": 1,
+                "name": "Less than 1 year"
+            },
+            {
+                "value": 2,
+                "name": "1-5 years"
+            },
+            {
+                "value": 3,
+                "name": "6-10 years"
+            },
+            {
+                "value": 4,
+                "name": "11-20 years"
+            },
+            {
+                "value": 5,
+                "name": "21-30 years"
+            },
+            {
+                "value": 6,
+                "name": "31-40 years"
+            },
+            {
+                "value": 7,
+                "name": "More than 40 years"
+            }
+        ]
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "For how long have you smoked?"
+    }
+}
