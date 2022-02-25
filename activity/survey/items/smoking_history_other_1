@@ -13,6 +13,9 @@
         "inputType": "text"
     },
     "responseOptions": {
-        "valueType": "xsd:string"
+        "valueType": "xsd:anyURI",
+        "multipleChoice": true,
+        "choices": [
     }
 }
+
