@@ -1,0 +1,33 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "smoking_history",
+    "prefLabel": "smoking_history",
+    "description": "schema for smoking history of participant",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": {
+        "en": "Are you currently an active smoker or have a history of smoking?"
+    },
+
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "multipleChoice": false,
+        "minValue": 0,
+        "maxValue": 1,
+        "choices": [
+            {
+                "value": 0,
+                "name": "Yes"
+            },
+            {
+                "value": 1,
+                "name": "No"
+
+            }
+        ]
+    }
+}
