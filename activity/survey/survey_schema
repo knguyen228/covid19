@@ -25,6 +25,7 @@
             "items/native_languages",
             "items/occupation",
             "items/hydrated",
+            "items/tired",
             "items/communication_disorders",
             "items/communication_disorders_other"
         ],
@@ -83,6 +84,11 @@
             {
                 "isAbout": "items/hydrated",
                 "variableName": "hydrated",
+                "isVis": true
+            },
+            {
+                "isAbout": "items/tired",
+                "variableName": "tired",
                 "isVis": true
             },
             {
