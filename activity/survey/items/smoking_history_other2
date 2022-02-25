@@ -6,7 +6,7 @@
     "@id": "smoking_history_other2",
     "prefLabel": "smoking_history_other2",
     "responseOptions": {
-        "valueType": "xsd:anyURI",
+        "valueType": "xsd:string",
         "multipleChoice": false,
         "choices": [
             {
