@@ -6,7 +6,7 @@
     "description": "schema for current height of participant",
     "schemaVersion": "1.0.0-rc1",
     "version": "0.0.1",
-    "question": "What is your current height, in feet and inches? For example, '5 ft 10 in'",
+    "question": "What is your current height, in feet and inches? For example, '5 ft 10 in'.",
     "ui": {
         "inputType": "text"
     },
