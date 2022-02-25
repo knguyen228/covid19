@@ -1,0 +1,44 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "@id": "smoking_history_other3",
+    "prefLabel": "smoking_history_other3",
+    "responseOptions": {
+        "valueType": "xsd:anyURI",
+        "multipleChoice": true,
+        "choices": [
+            {
+                "value": 1,
+                "name": "Less than 5 cigarettes"
+            },
+            {
+                "value": 2,
+                "name": "More than 5 but less than 1 pack"
+            },
+            {
+                "value": 3,
+                "name": "1 pack per day"
+            },
+            {
+                "value": 4,
+                "name": "1.5 packs per day"
+            },
+            {
+                "value": 5,
+                "name": "2 packs per day"
+            },
+            {
+                "value": 6,
+                "name": "More than 2 packs per day"
+            }
+        ]
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "How many cigarettes or packs per day did/do you smoke?"
+    }
+}
