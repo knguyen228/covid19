@@ -114,7 +114,7 @@
             {
                 "isAbout": "items/smoking_history_other3",
                 "variableName": "smoking_history_other3",
-                "isVis": "smoking_history.includes(1)"
+                "isVis": "smoking_history_other1.includes(1)"
             },
             {
                 "isAbout": "items/communication_disorders",
