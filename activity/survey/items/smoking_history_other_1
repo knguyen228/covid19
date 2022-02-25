@@ -7,7 +7,7 @@
     "schemaVersion": "1.0.0-rc2",
     "version": "0.0.1",
     "question": {
-        "en": "Did/do you smoke tobacco, marijuana, or use a vape?",
+        "en": "Did/do you smoke tobacco, marijuana, or use a vape? Please select all that apply.",
         },
     "ui": {
         "inputType": "text"
@@ -16,6 +16,19 @@
         "valueType": "xsd:anyURI",
         "multipleChoice": true,
         "choices": [
+            {
+                "value": 1,
+                "name": "Tobacco"
+            },
+            {
+                "value": 2,
+                "name": "Marijuana"
+            },
+            {
+                "value": 3,
+                "name": "Vape"
+            }
+        ]
     }
 }
 
