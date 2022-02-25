@@ -9,7 +9,6 @@
     "question": {
         "en": "Are you currently an active smoker or have a history of smoking?"
     },
-
     "ui": {
         "inputType": "radio"
     },
@@ -17,14 +16,14 @@
         "valueType": "xsd:string",
         "multipleChoice": false,
         "minValue": 0,
-        "maxValue": 1,
+        "maxValue": 2,
         "choices": [
             {
-                "value": 0,
+                "value": 1,
                 "name": "Yes"
             },
             {
-                "value": 1,
+                "value": 2,
                 "name": "No"
 
             }
