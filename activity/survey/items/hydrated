@@ -12,6 +12,8 @@
         "en": "On a scale of 1-10, how hydrated do you feel right now? (1 = Not at all hydrated, 10 = Extremely hydrated)."
     },
     "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": true,
         "choices": [
             {
                 "value": 1,
