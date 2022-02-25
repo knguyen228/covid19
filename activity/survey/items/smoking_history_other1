@@ -8,7 +8,7 @@
     "version": "0.0.1",
     "question": {
         "en": "Did/do you smoke tobacco, marijuana, or use a vape? Please select all that apply.",
-        },
+    },
     "ui": {
         "inputType": "text"
     },
