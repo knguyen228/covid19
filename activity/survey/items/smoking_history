@@ -14,7 +14,7 @@
     },
     "responseOptions": {
         "valueType": "xsd:string",
-        "multipleChoice": false,
+        "multipleChoice": true,
         "minValue": 0,
         "maxValue": 2,
         "choices": [
