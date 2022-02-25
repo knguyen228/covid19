@@ -107,7 +107,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "Which categories describe you (select all that apply): "
+        "en": "Which categories describe you? (Please select all that apply): "
     }
 }
 
