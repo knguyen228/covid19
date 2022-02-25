@@ -1,12 +1,12 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc1/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "native_language_multiple",
-    "prefLabel": "Native language",
-    "description": "schema for native language of participant",
+    "@id": "occupation",
+    "prefLabel": "occupation",
+    "description": "schema for occupation of participant",
     "schemaVersion": "1.0.0-rc1",
     "version": "0.0.1",
-    "question": "If you are currently working, what is your profession? For example, 'No paid employment,' 'Student,' 'Teacher,' etc.",
+    "question": "If you are currently working, what is your profession? For example, 'Student,' 'Cashier,' 'Singer,' etc.",
     "ui": {
         "inputType": "text"
     },
