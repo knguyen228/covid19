@@ -20,6 +20,8 @@
             "items/race_ethnicity_global",
             "items/race_ethnicity_global_other",
             "items/geographic_location",
+            "items/height",
+            "items/weight",
             "items/native_languages",
             "items/communication_disorders",
             "items/communication_disorders_other"
@@ -54,6 +56,16 @@
             {
                 "isAbout": "items/geographic_location",
                 "variableName": "geographic_location",
+                "isVis": true
+            },
+            {
+                "isAbout": "items/height",
+                "variableName": "height",
+                "isVis": true
+            },
+            {
+                "isAbout": "items/weight",
+                "variableName": "weight",
                 "isVis": true
             },
             {
