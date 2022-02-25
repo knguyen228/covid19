@@ -23,6 +23,7 @@
             "items/height",
             "items/weight",
             "items/native_languages",
+            "items/occupation",
             "items/communication_disorders",
             "items/communication_disorders_other"
         ],
@@ -71,6 +72,11 @@
             {
                 "isAbout": "items/native_languages",
                 "variableName": "native_languages",
+                "isVis": true
+            },
+            {
+                "isAbout": "items/occupation",
+                "variableName": "occupation",
                 "isVis": true
             },
             {
