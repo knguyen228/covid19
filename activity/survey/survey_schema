@@ -29,6 +29,7 @@
             "items/tired",
             "items/smoking_history",
             "items/smoking_history_other1",
+            "items/smoking_history_other2",
             "items/communication_disorders",
             "items/communication_disorders_other"
         ],
@@ -102,6 +103,11 @@
             {
                 "isAbout": "items/smoking_history_other1",
                 "variableName": "smoking_history_other1",
+                "isVis": "smoking_history.includes(1)"
+            },
+            {
+                "isAbout": "items/smoking_history_other2",
+                "variableName": "smoking_history_other2",
                 "isVis": "smoking_history.includes(1)"
             },
             {
