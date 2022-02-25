@@ -30,6 +30,7 @@
             "items/smoking_history",
             "items/smoking_history_other1",
             "items/smoking_history_other2",
+            "items/smoking_history_other3",
             "items/communication_disorders",
             "items/communication_disorders_other"
         ],
@@ -108,6 +109,11 @@
             {
                 "isAbout": "items/smoking_history_other2",
                 "variableName": "smoking_history_other2",
+                "isVis": "smoking_history.includes(1)"
+            },
+            {
+                "isAbout": "items/smoking_history_other3",
+                "variableName": "smoking_history_other3",
                 "isVis": "smoking_history.includes(1)"
             },
             {
