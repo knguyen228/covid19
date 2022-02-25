@@ -6,7 +6,7 @@
     "description": "schema for current geographic location of participant",
     "schemaVersion": "1.0.0-rc1",
     "version": "0.0.1",
-    "question": "Where do you currently reside? Please include city, state (if appilcable), and country. For example, 'Cambridge, MA, USA'",
+    "question": "Where do you currently reside? Please include city, state (if appilcable), and country. For example, 'Cambridge, MA, USA'.",
     "ui": {
         "inputType": "text"
     },
