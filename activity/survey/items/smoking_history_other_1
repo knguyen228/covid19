@@ -1,0 +1,18 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc2/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "smoking_history_other",
+    "prefLabel": "smoking_history_other",
+    "description": "smoking history other",
+    "schemaVersion": "1.0.0-rc2",
+    "version": "0.0.1",
+    "question": {
+        "en": "Did/do you smoke tobacco, marijuana, or use a vape?",
+        },
+    "ui": {
+        "inputType": "text"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string"
+    }
+}
