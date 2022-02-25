@@ -6,7 +6,7 @@
     "description": "schema for current weight of participant",
     "schemaVersion": "1.0.0-rc1",
     "version": "0.0.1",
-    "question": "What is your current weight in pounds? For example, '150 lbs'",
+    "question": "What is your current weight, in pounds? For example, '150 lbs'",
     "ui": {
         "inputType": "text"
     },
