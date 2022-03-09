@@ -8,7 +8,7 @@
     "version": "0.0.1",
     "question": "In which state do you currently reside?",
     "ui": {
-        "inputType": "text"
+        "inputType": "select"
     },
     "responseOptions": {
         "valueType": "xsd:anyURI",
