@@ -48,7 +48,7 @@
                 }
             },
             {
-                "isAbout": "../ThankYou_schema",
+                "isAbout": "../activity/ThankYou_schema",
                 "variableName": "ThankYou_schema",
                 "prefLabel": {
                     "en": "Submit Responses",
