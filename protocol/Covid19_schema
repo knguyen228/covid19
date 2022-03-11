@@ -27,7 +27,7 @@
         "order": [
             "../activity/survey/survey_schema",
             "../activity/voice/voice_schema",
-            "activity_path:ThankYou/ThankYou_schema"
+            "../activity/ThankYou/ThankYou_schema"
         ],
         "shuffle": false,
         "addProperties": [
@@ -48,7 +48,7 @@
                 }
             },
             {
-                "isAbout": "activity_path:ThankYou/ThankYou_schema",
+                "isAbout": "../ThankYou/ThankYou_schema",
                 "variableName": "ThankYou_schema",
                 "prefLabel": {
                     "en": "Submit Responses",
