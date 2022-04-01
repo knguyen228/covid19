@@ -1,0 +1,61 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc2/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "slider_item",
+    "prefLabel": "slider item",
+    "description": "This is a slider item.",
+    "schemaVersion": "1.0.0-rc2",
+    "version": "0.0.1",
+    "question": "Thirsty?",
+    "ui": {
+        "inputType": "slider"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "minValue": 0,
+        "maxValue": 4,
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "1",
+                "value": 1
+            },
+            {
+                "name": "2",
+                "value": 2
+            },
+            {
+                "name": "3",
+                "value": 3
+            },
+            {
+                "name": "4",
+                "value": 4
+            },
+            {
+                "name": "5",
+                "value": 5
+            }
+            {
+                "name": "6",
+                "value": 6
+            },
+            {
+                "name": "7",
+                "value": 7
+            },
+            {
+                "name": "8",
+                "value": 8
+            },
+            {
+                "name": "9",
+                "value": 9
+            },
+            {
+                "name": "10",
+                "value": 10
+            }
+        ]
+    }
+}
