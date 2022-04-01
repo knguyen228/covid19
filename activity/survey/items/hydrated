@@ -1,8 +1,8 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc2/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "slider_item",
-    "prefLabel": "slider item",
+    "@id": "hydrated",
+    "prefLabel": "hydrated",
     "description": "This is a slider item.",
     "schemaVersion": "1.0.0-rc2",
     "version": "0.0.1",
