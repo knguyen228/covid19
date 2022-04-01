@@ -24,7 +24,7 @@
             "items/weight",
             "items/native_languages",
             "items/occupation",
-            "items/hydrated_test",
+            "items/hydrated",
             "items/tired",
             "items/smoking_history",
             "items/smoking_history_other1",
@@ -86,8 +86,8 @@
                 "isVis": true
             },
             {
-                "isAbout": "items/hydrated_test",
-                "variableName": "hydrated_test",
+                "isAbout": "items/hydrated",
+                "variableName": "hydrated",
                 "isVis": true
             },
             {
