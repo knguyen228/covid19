@@ -6,7 +6,7 @@
     "description": "This is a slider item.",
     "schemaVersion": "1.0.0-rc2",
     "version": "0.0.1",
-    "question": "Thirsty?",
+    "question": "On a scale of 1-10, how hydrated do you feel right now? (1 = Not at all hydrated, 10 = Extremely hydrated.)",
     "ui": {
         "inputType": "slider"
     },
