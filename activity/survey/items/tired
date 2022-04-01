@@ -1,59 +1,60 @@
 {
-    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc1/contexts/generic",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc2/contexts/generic",
     "@type": "reproschema:Field",
-    "schemaVersion": "1.0.0-rc1",
-    "version": "0.0.1",
     "@id": "tired",
     "prefLabel": "tired",
+    "description": "This is a slider item.",
+    "schemaVersion": "1.0.0-rc2",
+    "version": "0.0.1",
+    "question": "On a scale of 1-10, how hydrated do you feel right now? (1 = Not at all tired, 10 = Extremely tired.)",
     "ui": {
-        "inputType": "select"
-    },
-    "question": {
-        "en": "On a scale of 1-10, how tired do you feel right now? (1 = Not tired at all, 10 = Extremely tired)."
+        "inputType": "slider"
     },
     "responseOptions": {
         "valueType": "xsd:integer",
-        "multipleChoice": true,
+        "minValue": 0,
+        "maxValue": 4,
+        "multipleChoice": false,
         "choices": [
             {
-                "value": 1,
-                "name": "1"
+                "name": "1",
+                "value": 1
             },
             {
-                "value": 2,
-                "name": "2"
+                "name": "2",
+                "value": 2
             },
             {
-                "value": 3,
-                "name": "3"
+                "name": "3",
+                "value": 3
             },
             {
-                "value": 4,
-                "name": "4"
+                "name": "4",
+                "value": 4
             },
             {
-                "value": 5,
-                "name": "5"
+                "name": "5",
+                "value": 5
             },
             {
-                "value": 6,
-                "name": "6"
+                "name": "6",
+                "value": 6
             },
             {
-                "value": 7,
-                "name": "7"
+                "name": "7",
+                "value": 7
             },
             {
-                "value": 8,
-                "name": "8"
+                "name": "8",
+                "value": 8
             },
             {
-                "value": 9,
-                "name": "9"
+                "name": "9",
+                "value": 9
             },
             {
-                "value": 10,
-                "name": "10"
+                "name": "10",
+                "value": 10
             }
         ]
     }
