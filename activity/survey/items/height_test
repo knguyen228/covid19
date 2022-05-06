@@ -11,7 +11,7 @@
         "inputType": "slider"
     },
     "responseOptions": {
-        "valueType": "xsd:string",
+        "valueType": "xsd:text",
         "minValue": 0,
         "maxValue": 30,
         "multipleChoice": false,
