@@ -1,17 +1,29 @@
 {
-    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc1/contexts/generic",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc2/contexts/generic",
     "@type": "reproschema:Field",
     "@id": "height",
     "prefLabel": "height",
     "description": "schema for current height of participant",
-    "schemaVersion": "1.0.0-rc1",
+    "schemaVersion": "1.0.0-rc2",
     "version": "0.0.1",
-    "question": "What is your current height, in feet and inches? For example, '5 ft 10 in'.",
+    "question": "What is your current height, in feet and inches? Enter feet in first box, inches in second.",
     "ui": {
-        "inputType": "multitext"
+        "inputType": "radio"
     },
     "responseOptions": {
-        "valueType": "xsd:string",
-        "maxLength": 200
+        "valueType": "xsd:integer",
+        "minValue": 0,
+        "maxValue": 1,
+        "multipleChoice": true,
+        "choices": [
+            {
+                "name": "Response option 1",
+                "value": 0
+            },
+            {
+                "name": "Response option 2",
+                "value": 1
+            }
+        ]
     }
 }
