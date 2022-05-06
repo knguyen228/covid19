@@ -6,23 +6,139 @@
     "description": "schema for current height of participant",
     "schemaVersion": "1.0.0-rc2",
     "version": "0.0.1",
-    "question": "What is your current height, in feet and inches? Enter feet in first box, inches in second.",
+    "question": "What is your current height, in feet and inches?",
     "ui": {
-        "inputType": "radio"
+        "inputType": "slider"
     },
     "responseOptions": {
-        "valueType": "xsd:integer",
+        "valueType": "xsd:string",
         "minValue": 0,
-        "maxValue": 1,
-        "multipleChoice": true,
+        "maxValue": 30,
+        "multipleChoice": false,
         "choices": [
             {
-                "name": "Response option 1",
+                "name": "4 ft 6 in or less",
                 "value": 0
             },
             {
-                "name": "Response option 2",
+                "name": "4 ft 7 in",
                 "value": 1
+            },
+            {
+                "name": "4 ft 8 in",
+                "value": 2
+            },
+            {
+                "name": "4 ft 9 in",
+                "value": 3
+            },
+            {
+                "name": "4 ft 10 in",
+                "value": 4
+            },
+            {
+                "name": "4 ft 11 in",
+                "value": 5
+            },
+            {
+                "name": "5 ft 0 in",
+                "value": 6
+            },
+            {
+                "name": "5 ft 1 in",
+                "value": 7
+            },
+            {
+                "name": "5 ft 2 in",
+                "value": 8
+            },
+            {
+                "name": "5 ft 3 in",
+                "value": 9
+            },
+            {
+                "name": "5 ft 4 in",
+                "value": 10
+            }
+            {
+                "name": "5 ft 5 in",
+                "value": 11
+            },
+            {
+                "name": "5 ft 6 in",
+                "value": 12
+            },
+            {
+                "name": "5 ft 7 in",
+                "value": 13
+            },
+            {
+                "name": "5 ft 8 in",
+                "value": 14
+            },
+            {
+                "name": "5 ft 9 in",
+                "value": 15
+            },
+            {
+                "name": "5 ft 10 in",
+                "value": 16
+            },
+            {
+                "name": "5 ft 11 in",
+                "value": 17
+            },
+            {
+                "name": "6 ft 0 in",
+                "value": 18 
+            },
+            {
+                "name": "6 ft 1 in",
+                "value": 19
+            },
+            {
+                "name": "6 ft 2 in",
+                "value": 20
+            }
+            {
+                "name": "6 ft 3 in",
+                "value": 21
+            },
+            {
+                "name": "6 ft 4 in",
+                "value": 22
+            },
+            {
+                "name": "6 ft 5 in",
+                "value": 23
+            },
+            {
+                "name": "6 ft 6 in",
+                "value": 24 
+            },
+            {
+                "name": "6 ft 7 in",
+                "value": 25
+            },
+            {
+                "name": "6 ft 8 in",
+                "value": 26
+            }
+            {
+                "name": "6 ft 9 in",
+                "value": 27
+            },
+            {
+                "name": "6 ft 10 in",
+                "value": 28
+            },
+            {
+                "name": "6 ft 11 in",
+                "value": 29
+            },
+            {
+                "name": "7 ft 0 in or greater",
+                "value": 30
             }
         ]
     }
