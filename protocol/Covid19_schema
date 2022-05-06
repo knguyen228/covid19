@@ -17,10 +17,6 @@
     "landingPage": [{
             "@id": "README-en.md",
             "inLanguage": "en"
-        },
-        {
-            "@id": "README-es.md",
-            "inLanguage": "es"
         }
     ],
     "ui": {
