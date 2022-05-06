@@ -8,7 +8,7 @@
     "version": "0.0.1",
     "question": "What is your current height, in feet and inches? For example, '5 ft 10 in'.",
     "ui": {
-        "inputType": "text"
+        "inputType": "multitext"
     },
     "responseOptions": {
         "valueType": "xsd:string",
